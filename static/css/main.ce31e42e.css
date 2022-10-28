@@ -1,0 +1,2 @@
+@import url(https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap);body{background-color:#131316;color:#fff;font-family:Inter,Arial;margin:0;padding:0}section{align-content:center;display:grid;min-height:100vh;padding:10rem;place-items:center}.hidden{opacity:0;-webkit-transform:translateX(-100%);transform:translateX(-100%)}.show{opacity:1;-webkit-transform:translateX(0);transform:translateX(0);transition:all 2s}
+/*# sourceMappingURL=main.ce31e42e.css.map*/
